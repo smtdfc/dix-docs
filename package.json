@@ -19,6 +19,7 @@
       "onFail": "download"
     }
   },
+  "packageManager": "pnpm@11.24.0",
   "type": "module",
   "devDependencies": {
     "vitepress": "2.0.0-alpha.19",
